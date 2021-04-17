@@ -1,0 +1,10 @@
+include ':designComponent'
+include ':pdp'
+include ':designComponent'
+include ':login'
+include ':pdp'
+include ':pdp'
+include ':login'
+include ':designComponent'
+include ':app'
+rootProject.name = "nykaafashion"
